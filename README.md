@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 4, 2018
 
 ### Student Name:  
-(First and Last Name)
+Michael Santomaso
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Designing an interactive webpage that displays the ingredients and recipe for a batch of brownies. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://msanto24.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to reference an outide source Jquery file within an html file. 
+2. We learned how to format a jquery file and see how it affects the html file it's related to. 
+3. We learned how to use the hover and toggle functions within jquery. 
 
